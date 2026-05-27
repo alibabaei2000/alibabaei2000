@@ -1,7 +1,24 @@
-- 👋 Hi, I’m @alibabaei2000
-- 👀 I’m interested in Python and Machine Learning and Computer Vision
-- 🌱 I’m currently learning Artificial Intelligence(Machine Learning and deep learning)
-<!---
-alibabaei2000/alibabaei2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+M.Sc. student in Computer Engineering at Isfahan University of Technology (IUT), working at the intersection of Artificial Intelligence and Healthcare.
+
+My research interests include:
+
+• Medical Imaging AI
+• Computational Pathology
+• EEG / NeuroAI
+• Multimodal Medical AI
+• Clinical and Psychological Data Modeling
+• Computer Vision and Machine Learning
+
+Currently involved in several AI-for-healthcare research projects across multiple medical modalities, including colorectal cancer histopathology, EEG-based motor imagery classification, and psychological disorder prediction using clinical data.
+
+My master’s thesis focuses on Motor Imagery EEG Classification.
+
+Research experience includes:
+
+* Deep learning for computational pathology
+* Medical image analysis
+* EEG signal processing
+* Machine learning for clinical prediction
+* Multimodal biomedical data analysis
+
+Particularly interested in computational pathology, medical computer vision, neuroAI, and clinically grounded machine learning systems.
